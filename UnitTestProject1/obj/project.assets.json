@@ -5630,11 +5630,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan\\RiderProjects\\RentALimo\\UnitTestProject1\\UnitTestProject1.csproj",
-      "projectName": "UnitTestProject1",
-      "projectPath": "C:\\Users\\Jonathan\\RiderProjects\\RentALimo\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\UnitTestProject1\\RentALimo.Business.Test.csproj",
+      "projectName": "RentALimo.Business.Test",
+      "projectPath": "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\UnitTestProject1\\RentALimo.Business.Test.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan\\RiderProjects\\RentALimo\\UnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

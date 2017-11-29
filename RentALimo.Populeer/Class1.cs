@@ -1,9 +1,8 @@
 ﻿using System;
 
-namespace RentALimo
+namespace RentALimo.Populeer
 {
     public class Class1
     {
-
     }
 }
