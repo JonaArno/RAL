@@ -1600,6 +1600,15 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "RentALimo.Business/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/RentALimo.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RentALimo.Business.dll": {}
+        }
       }
     }
   },
@@ -5610,6 +5619,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "RentALimo.Business/1.0.0": {
+      "type": "project",
+      "path": "../RentALimo/RentALimo.Business.csproj",
+      "msbuildProject": "../RentALimo/RentALimo.Business.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5617,7 +5631,8 @@
       "MSTest.TestAdapter >= 1.1.18",
       "MSTest.TestFramework >= 1.1.18",
       "Microsoft.NET.Test.Sdk >= 15.3.0-preview-20170628-02",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "RentALimo.Business >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5652,7 +5667,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\RentALimo\\RentALimo.Business.csproj": {
+              "projectPath": "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\RentALimo\\RentALimo.Business.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6b09c7a-a4dd-4fcc-8e0b-a087f8ceaa14" name="Default" comment="" />
+    <list default="true" id="f6b09c7a-a4dd-4fcc-8e0b-a087f8ceaa14" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RentALimo/Class1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/UnitTestProject1/UnitTest1.cs" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vs/RentALimo/v15/.suo" afterPath="$PROJECT_DIR$/.vs/RentALimo/v15/.suo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vs/RentALimo/v15/sqlite3/storage.ide" afterPath="$PROJECT_DIR$/.vs/RentALimo/v15/sqlite3/storage.ide" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RentALimo/bin/Debug/RentALimo.dll" afterPath="$PROJECT_DIR$/RentALimo/bin/Debug/RentALimo.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RentALimo/bin/Debug/RentALimo.pdb" afterPath="$PROJECT_DIR$/RentALimo/bin/Debug/RentALimo.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RentALimo/obj/Debug/RentALimo.Business.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/RentALimo/obj/Debug/RentALimo.Business.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RentALimo/obj/Debug/RentALimo.Business.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/RentALimo/obj/Debug/RentALimo.Business.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RentALimo/obj/Debug/RentALimo.dll" afterPath="$PROJECT_DIR$/RentALimo/obj/Debug/RentALimo.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RentALimo/obj/Debug/RentALimo.pdb" afterPath="$PROJECT_DIR$/RentALimo/obj/Debug/RentALimo.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/netcoreapp2.0/RentALimo.Business.Test.dll" afterPath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/netcoreapp2.0/RentALimo.Business.Test.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/netcoreapp2.0/RentALimo.Business.Test.pdb" afterPath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/netcoreapp2.0/RentALimo.Business.Test.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/netcoreapp2.0/RentALimo.Business.Test.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/netcoreapp2.0/RentALimo.Business.Test.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/netcoreapp2.0/RentALimo.Business.Test.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/netcoreapp2.0/RentALimo.Business.Test.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/netcoreapp2.0/RentALimo.Business.Test.dll" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/netcoreapp2.0/RentALimo.Business.Test.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/netcoreapp2.0/RentALimo.Business.Test.pdb" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/netcoreapp2.0/RentALimo.Business.Test.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTestProject1/obj/RentALimo.Business.Test.csproj.nuget.cache" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/RentALimo.Business.Test.csproj.nuget.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.RentALimo/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.RentALimo/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.RentALimo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.RentALimo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RentALimo/RentALimo.Business.csproj" afterPath="$PROJECT_DIR$/RentALimo/RentALimo.Business.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTestProject1/RentALimo.Business.Test.csproj" afterPath="$PROJECT_DIR$/UnitTestProject1/RentALimo.Business.Test.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/netcoreapp2.0/RentALimo.Business.Test.deps.json" afterPath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/netcoreapp2.0/RentALimo.Business.Test.deps.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/netcoreapp2.0/RentALimo.Business.Test.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/netcoreapp2.0/RentALimo.Business.Test.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTestProject1/obj/project.assets.json" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/project.assets.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitTestProject1/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/project.packagespec.json" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,38 +37,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RentALimo/Class1.cs">
+      <file leaf-file-name="EventingKortingFixture.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnitTestProject1/EventingKortingFixture.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="384">
+              <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding>
-                <marker date="1511976388118" expanded="true" signature="34:74" ph="{...}" />
-                <marker date="1511976388118" expanded="true" signature="60:72" ph="{...}" />
+                <marker date="1511985619115" expanded="true" signature="86:1366" ph="{...}" />
+                <marker date="1511985619115" expanded="true" signature="144:1364" ph="{...}" />
+                <marker date="1511985619115" expanded="true" signature="212:504" ph="{...}" />
+                <marker date="1511985619115" expanded="true" signature="639:903" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UnitTest1.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/UnitTestProject1/UnitTest1.cs">
+      <file leaf-file-name="EventingKorting.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RentALimo/EventingKorting.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="496">
+              <caret line="40" column="41" lean-forward="false" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
               <folding>
-                <marker date="1511976377662" expanded="true" signature="79:213" ph="{...}" />
-                <marker date="1511976377662" expanded="true" signature="124:211" ph="{...}" />
-                <marker date="1511976377662" expanded="true" signature="185:205" ph="{...}" />
+                <marker date="1511985747254" expanded="true" signature="6:92" ph="..." />
+                <marker date="1511985747254" expanded="true" signature="120:241" ph="/* dit is een eventkorting tabel ... */" />
+                <marker date="1511985747254" expanded="true" signature="274:1718" ph="{...}" />
+                <marker date="1511985747254" expanded="true" signature="289:467" ph="/* in principe autonummeren we niet in DB's - maar &quot;onze DBA&quot; volhardt in de boosheid ... */" />
+                <marker date="1511985747254" expanded="true" signature="553:818" ph="/* Zowel SortedSet als SortedList zijn dictionaries. Ene heeft KeyValuePairs en andere is een HashTable ... */" />
+                <marker date="1511985747254" expanded="true" signature="1091:1136" ph="{...}" />
+                <marker date="1511985747254" expanded="true" signature="1189:1373" ph="{...}" />
+                <marker date="1511985747254" expanded="true" signature="1471:1556" ph="{...}" />
+                <marker date="1511985747254" expanded="true" signature="1642:1711" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventingKortingItem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RentALimo/EventingKortingItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/RentALimo/Class1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/UnitTestProject1/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentALimo.GUI/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UnitTestProject1/EventingKortingFixture.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentALimo/EventingKorting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentALimo/EventingKortingItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentALimo.GUI/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RentALimo/EventingKortingItem.cs" />
+        <option value="$PROJECT_DIR$/RentALimo/EventingKorting.cs" />
+        <option value="$PROJECT_DIR$/UnitTestProject1/EventingKortingFixture.cs" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -55,6 +114,9 @@
     <option name="y" value="20" />
     <option name="width" value="1260" />
     <option name="height" value="720" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -71,22 +133,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="RentALimo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="RentALimo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="RentALimo" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="RentALimo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="UnitTestProject1" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="RentALimo (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -94,7 +147,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -112,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.Default">
+  <component name="RunManager" selected=".NET Project.RentALimo.Business.Test">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -126,9 +178,28 @@
       <option name="PROJECT_KIND" value="None" />
       <option name="PROJECT_TFM" value="" />
     </configuration>
-    <list size="1">
+    <configuration name="RentALimo.Business.Test" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/UnitTestProject1/bin/Debug/netcoreapp2.0/RentALimo.Business.Test.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UnitTestProject1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/UnitTestProject1/RentALimo.Business.Test.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.RentALimo.Business.Test" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.RentALimo.Business.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -142,11 +213,14 @@
       <updated>1511975842688</updated>
       <workItem from="1511975845583" duration="306000" />
       <workItem from="1511976435473" duration="756000" />
+      <workItem from="1511980433067" duration="3114000" />
+      <workItem from="1511986718738" duration="592000" />
+      <workItem from="1511987334307" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1062000" />
+    <option name="totallyTimeSpent" value="4771000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -162,14 +236,13 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.153125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20546874" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -180,6 +253,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -195,36 +269,136 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RentALimo/Class1.cs">
+    <entry file="file://$PROJECT_DIR$/UnitTestProject1/EventingKortingFixture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <marker date="1511985619115" expanded="true" signature="86:1366" ph="{...}" />
+            <marker date="1511985619115" expanded="true" signature="144:1364" ph="{...}" />
+            <marker date="1511985619115" expanded="true" signature="212:504" ph="{...}" />
+            <marker date="1511985619115" expanded="true" signature="639:903" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentALimo/EventingKortingItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentALimo/EventingKorting.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+          <folding>
+            <marker date="1511985747254" expanded="true" signature="6:92" ph="..." />
+            <marker date="1511985747254" expanded="true" signature="120:241" ph="/* dit is een eventkorting tabel ... */" />
+            <marker date="1511985747254" expanded="true" signature="274:1718" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="289:467" ph="/* in principe autonummeren we niet in DB's - maar &quot;onze DBA&quot; volhardt in de boosheid ... */" />
+            <marker date="1511985747254" expanded="true" signature="553:818" ph="/* Zowel SortedSet als SortedList zijn dictionaries. Ene heeft KeyValuePairs en andere is een HashTable ... */" />
+            <marker date="1511985747254" expanded="true" signature="1091:1136" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="1189:1373" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="1471:1556" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="1642:1711" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTestProject1/EventingKortingFixture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <marker date="1511985619115" expanded="true" signature="86:1366" ph="{...}" />
+            <marker date="1511985619115" expanded="true" signature="144:1364" ph="{...}" />
+            <marker date="1511985619115" expanded="true" signature="212:504" ph="{...}" />
+            <marker date="1511985619115" expanded="true" signature="639:903" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentALimo/EventingKortingItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentALimo/EventingKorting.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <marker date="1511985747254" expanded="true" signature="6:92" ph="..." />
+            <marker date="1511985747254" expanded="true" signature="120:241" ph="/* dit is een eventkorting tabel ... */" />
+            <marker date="1511985747254" expanded="true" signature="274:1718" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="289:467" ph="/* in principe autonummeren we niet in DB's - maar &quot;onze DBA&quot; volhardt in de boosheid ... */" />
+            <marker date="1511985747254" expanded="true" signature="553:818" ph="/* Zowel SortedSet als SortedList zijn dictionaries. Ene heeft KeyValuePairs en andere is een HashTable ... */" />
+            <marker date="1511985747254" expanded="true" signature="1091:1136" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="1189:1373" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="1471:1556" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="1642:1711" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentALimo/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/RentALimo/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/UnitTestProject1/UnitTest1.cs" />
+    <entry file="file://$PROJECT_DIR$/UnitTestProject1/EventingKortingFixture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <marker date="1511985619115" expanded="true" signature="86:1366" ph="{...}" />
+            <marker date="1511985619115" expanded="true" signature="144:1364" ph="{...}" />
+            <marker date="1511985619115" expanded="true" signature="212:504" ph="{...}" />
+            <marker date="1511985619115" expanded="true" signature="639:903" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentALimo/EventingKortingItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentALimo.GUI/MainWindow.xaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1511976388118" expanded="true" signature="34:74" ph="{...}" />
-            <marker date="1511976388118" expanded="true" signature="60:72" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RentALimo/Class1.cs">
+    <entry file="file://$PROJECT_DIR$/RentALimo.GUI/MainWindow.xaml.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <marker date="1511976388118" expanded="true" signature="34:74" ph="{...}" />
-            <marker date="1511976388118" expanded="true" signature="60:72" ph="{...}" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UnitTestProject1/UnitTest1.cs">
+    <entry file="file://$PROJECT_DIR$/RentALimo/EventingKorting.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="496">
+          <caret line="40" column="41" lean-forward="false" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
           <folding>
-            <marker date="1511976377662" expanded="true" signature="79:213" ph="{...}" />
-            <marker date="1511976377662" expanded="true" signature="124:211" ph="{...}" />
-            <marker date="1511976377662" expanded="true" signature="185:205" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="6:92" ph="..." />
+            <marker date="1511985747254" expanded="true" signature="120:241" ph="/* dit is een eventkorting tabel ... */" />
+            <marker date="1511985747254" expanded="true" signature="274:1718" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="289:467" ph="/* in principe autonummeren we niet in DB's - maar &quot;onze DBA&quot; volhardt in de boosheid ... */" />
+            <marker date="1511985747254" expanded="true" signature="553:818" ph="/* Zowel SortedSet als SortedList zijn dictionaries. Ene heeft KeyValuePairs en andere is een HashTable ... */" />
+            <marker date="1511985747254" expanded="true" signature="1091:1136" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="1189:1373" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="1471:1556" ph="{...}" />
+            <marker date="1511985747254" expanded="true" signature="1642:1711" ph="{...}" />
           </folding>
         </state>
       </provider>

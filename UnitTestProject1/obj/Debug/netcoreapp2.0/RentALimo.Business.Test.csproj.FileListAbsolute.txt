@@ -12,3 +12,5 @@ C:\Users\Jonathan\source\repos\RentALimo\UnitTestProject1\obj\Debug\netcoreapp2.
 C:\Users\Jonathan\source\repos\RentALimo\UnitTestProject1\obj\Debug\netcoreapp2.0\RentALimo.Business.Test.AssemblyInfo.cs
 C:\Users\Jonathan\source\repos\RentALimo\UnitTestProject1\obj\Debug\netcoreapp2.0\RentALimo.Business.Test.dll
 C:\Users\Jonathan\source\repos\RentALimo\UnitTestProject1\obj\Debug\netcoreapp2.0\RentALimo.Business.Test.pdb
+C:\Users\Jonathan\source\repos\RentALimo\UnitTestProject1\bin\Debug\netcoreapp2.0\RentALimo.dll
+C:\Users\Jonathan\source\repos\RentALimo\UnitTestProject1\bin\Debug\netcoreapp2.0\RentALimo.pdb

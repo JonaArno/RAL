@@ -1,17 +1,21 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Jonathan\\RiderProjects\\RentALimo\\UnitTestProject1\\UnitTestProject1.csproj",
-    "projectName": "UnitTestProject1",
-    "projectPath": "C:\\Users\\Jonathan\\RiderProjects\\RentALimo\\UnitTestProject1\\UnitTestProject1.csproj",
-    "outputPath": "C:\\Users\\Jonathan\\RiderProjects\\RentALimo\\UnitTestProject1\\obj\\",
+    "projectUniqueName": "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\UnitTestProject1\\RentALimo.Business.Test.csproj",
+    "projectName": "RentALimo.Business.Test",
+    "projectPath": "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\UnitTestProject1\\RentALimo.Business.Test.csproj",
+    "outputPath": "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\UnitTestProject1\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.0"
     ],
     "frameworks": {
       "netcoreapp2.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\RentALimo\\RentALimo.Business.csproj": {
+            "projectPath": "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\RentALimo\\RentALimo.Business.csproj"
+          }
+        }
       }
     }
   },
