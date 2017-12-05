@@ -40,9 +40,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adres.cs" />
+    <Compile Include="Arrangement.cs" />
     <Compile Include="EventingKorting.cs" />
     <Compile Include="EventingKortingItem.cs" />
+    <Compile Include="Klant.cs" />
+    <Compile Include="KlantCategorie.cs" />
+    <Compile Include="Locatie.cs" />
+    <Compile Include="Opdracht.cs" />
+    <Compile Include="Prijs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StilstandTijd.cs" />
+    <Compile Include="Tijd.cs" />
+    <Compile Include="Wagen.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
