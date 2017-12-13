@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace RentALimo
 {
-    //overbodige klasse? Gewoon onder opdracht steken?
     public enum Locatie
     {
         Gent, Antwerpen, Brussel, Hasselt, Charleroi

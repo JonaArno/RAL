@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace RentALimo
 {
-    class KlantCategorie
+    public class KlantCategorie
     {
+        public int Id { get; set; }
         public string Type { get; set; }
         public EventingKorting EventingKorting { get; set; }
 
-        }
     }
 }
+

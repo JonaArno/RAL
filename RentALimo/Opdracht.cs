@@ -9,8 +9,9 @@ namespace RentALimo
     //opdracht in apart project steken?
     class Opdracht
     {
-        public Wagen Wagen { get; set; }
+        public int Id { get; set; }
         public Klant Klant { get; set; }
+        public Wagen Wagen { get; set; }
         public Locatie VertrekLocatie { get; set; }
         public Locatie AankomstLocatie { get; set; }
         public Arrangement Arrangement { get; set; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RentALimo
 {
-    class Tijd
+    public class Tijd
     {
         private const int maxTijd = 11;
     }

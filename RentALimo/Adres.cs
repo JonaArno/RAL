@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace RentALimo
 {
-    class Adres
+    public class Adres
     {
+        public int Id { get; set; }
         public string Straat { get; set; }
         public int PostCode { get; set; }
         public string Stad { get; set; }

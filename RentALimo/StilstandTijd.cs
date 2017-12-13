@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace RentALimo
 {
+    //nuttig?
     class StilstandTijd
     {
         public Locatie AankomstLocatie { get; set; } 

@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace RentALimo
 {
-    class Wagen
+    public class Wagen
     {
-        public string Nummerplaat { get; set; }
+        public int Id { get; set; }
         //ev te combineren
         public string Merk { get; set; }
         public string Type { get; set; }
+        public string Kleur { get; set; }
+        public PrijsLijst PrijsLijst { get; set; }
+         }
     }
 }
