@@ -13,3 +13,7 @@ C:\Users\Jonathan\source\repos\RentALimo\RentALimo.GUI\obj\Debug\RentALimo.GUI.c
 C:\Users\Jonathan\source\repos\RentALimo\RentALimo.GUI\obj\Debug\RentALimo.GUI.csproj.CoreCompileInputs.cache
 C:\Users\Jonathan\source\repos\RentALimo\RentALimo.GUI\obj\Debug\RentALimo.GUI.exe
 C:\Users\Jonathan\source\repos\RentALimo\RentALimo.GUI\obj\Debug\RentALimo.GUI.pdb
+C:\Users\Jonathan\source\repos\RentALimo\RentALimo.GUI\bin\Debug\EntityFramework.dll
+C:\Users\Jonathan\source\repos\RentALimo\RentALimo.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\source\repos\RentALimo\RentALimo.GUI\bin\Debug\EntityFramework.xml
+C:\Users\Jonathan\source\repos\RentALimo\RentALimo.GUI\bin\Debug\EntityFramework.SqlServer.xml

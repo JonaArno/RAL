@@ -14,6 +14,11 @@ namespace RentALimo
         public string Type { get; set; }
         public string Kleur { get; set; }
         public PrijsLijst PrijsLijst { get; set; }
-         }
+
+        public bool HeeftArrangement(Arrangement arrangement)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
+
