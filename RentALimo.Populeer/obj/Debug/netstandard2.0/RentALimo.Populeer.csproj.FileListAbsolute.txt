@@ -7,3 +7,9 @@ C:\Users\Jonathan\source\repos\RentALimo\RentALimo.Populeer\obj\Debug\netstandar
 C:\Users\Jonathan\source\repos\RentALimo\RentALimo.Populeer\obj\Debug\netstandard2.0\RentALimo.Populeer.AssemblyInfo.cs
 C:\Users\Jonathan\source\repos\RentALimo\RentALimo.Populeer\obj\Debug\netstandard2.0\RentALimo.Populeer.dll
 C:\Users\Jonathan\source\repos\RentALimo\RentALimo.Populeer\obj\Debug\netstandard2.0\RentALimo.Populeer.pdb
+C:\Users\Administrator\Source\Repos\RAL\RentALimo.Populeer\obj\Debug\netstandard2.0\RentALimo.Populeer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\RAL\RentALimo.Populeer\obj\Debug\netstandard2.0\RentALimo.Populeer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\RAL\RentALimo.Populeer\obj\Debug\netstandard2.0\RentALimo.Populeer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\RAL\RentALimo.Populeer\obj\Debug\netstandard2.0\RentALimo.Populeer.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\RAL\RentALimo.Populeer\obj\Debug\netstandard2.0\RentALimo.Populeer.dll
+C:\Users\Administrator\Source\Repos\RAL\RentALimo.Populeer\obj\Debug\netstandard2.0\RentALimo.Populeer.pdb

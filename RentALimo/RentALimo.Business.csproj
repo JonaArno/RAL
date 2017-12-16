@@ -56,14 +56,13 @@
     <Compile Include="Klant.cs" />
     <Compile Include="KlantCategorie.cs" />
     <Compile Include="Locatie.cs" />
-    <Compile Include="Reservering.cs" />
-    <Compile Include="PrijsLijstItem.cs" />
-    <Compile Include="PrijsLijst.cs" />
+    <Compile Include="PrijsBerekening.cs" />
+    <Compile Include="Reservatie.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReserveringBouwer.cs" />
-    <Compile Include="StilstandTijd.cs" />
     <Compile Include="Periode.cs" />
     <Compile Include="Wagen.cs" />
+    <Compile Include="WagenPrijs.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

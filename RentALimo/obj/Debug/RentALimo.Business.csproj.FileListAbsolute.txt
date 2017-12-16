@@ -4,3 +4,7 @@ C:\Users\Jonathan\source\repos\RentALimo\RentALimo\obj\Debug\RentALimo.Business.
 C:\Users\Jonathan\source\repos\RentALimo\RentALimo\obj\Debug\RentALimo.Business.csproj.CoreCompileInputs.cache
 C:\Users\Jonathan\source\repos\RentALimo\RentALimo\obj\Debug\RentALimo.dll
 C:\Users\Jonathan\source\repos\RentALimo\RentALimo\obj\Debug\RentALimo.pdb
+C:\Users\Administrator\Source\Repos\RAL\RentALimo\obj\Debug\RentALimo.Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\RAL\RentALimo\obj\Debug\RentALimo.Business.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\RAL\RentALimo\obj\Debug\RentALimo.dll
+C:\Users\Administrator\Source\Repos\RAL\RentALimo\obj\Debug\RentALimo.pdb

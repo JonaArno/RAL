@@ -9,7 +9,7 @@ namespace RentALimo
     public class KlantCategorie
     {
         public int Id { get; set; }
-        public string Type { get; set; }
+        public string Categorie { get; set; }
         public EventingKorting EventingKorting { get; set; }
 
     }

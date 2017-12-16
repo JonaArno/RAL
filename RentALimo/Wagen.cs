@@ -9,16 +9,16 @@ namespace RentALimo
     public class Wagen
     {
         public int Id { get; set; }
-        //ev te combineren
         public string Merk { get; set; }
         public string Type { get; set; }
         public string Kleur { get; set; }
-        public PrijsLijst PrijsLijst { get; set; }
+        public WagenPrijs WagenPrijs { get; set; }
 
-        public bool HeeftArrangement(Arrangement arrangement)
-        {
-            throw new NotImplementedException();
-        }
+        //code Dirk Andries
+        //public bool HeeftArrangement(Arrangement arrangement)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }
 

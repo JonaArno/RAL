@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace RentALimo
 {
     //opdracht in apart project steken?
-    public class Reservering
+    public class Reservatie
     {
         public int Id { get; set; }
         public Klant Klant { get; set; }
@@ -15,10 +15,16 @@ namespace RentALimo
         public Locatie VertrekLocatie { get; set; }
         public Locatie AankomstLocatie { get; set; }
         public Arrangement Arrangement { get; set; }
-        //dit in aparte klasse steken?
-        public Prijs Prijs { get; set; }
-        //??
+        public decimal Prijs { get; }
         public Periode Periode { get; set; }
+        //noodzakelijk?
         public DateTime BoekingsDatum { get; set; }
+        
+        public Reservatie( /*.........*/)
+        {
+            //
+        }
+
+
     }
 }

@@ -1,0 +1,2 @@
+C:\Users\Administrator\Source\Repos\RAL\.vs\RentALimo\lut\0\i\RentALimo.Business\Debug\RentALimo.Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\RAL\.vs\RentALimo\lut\0\i\RentALimo.Business\Debug\RentALimo.Business.csproj.CoreCompileInputs.cache

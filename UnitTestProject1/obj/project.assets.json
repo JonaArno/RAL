@@ -5749,7 +5749,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jonathan\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5758,17 +5758,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\UnitTestProject1\\RentALimo.Business.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\RAL\\UnitTestProject1\\RentALimo.Business.Test.csproj",
       "projectName": "RentALimo.Business.Test",
-      "projectPath": "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\UnitTestProject1\\RentALimo.Business.Test.csproj",
-      "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\UnitTestProject1\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\RAL\\UnitTestProject1\\RentALimo.Business.Test.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\RAL\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5781,8 +5781,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\RentALimo\\RentALimo.Business.csproj": {
-              "projectPath": "C:\\Users\\Jonathan\\source\\repos\\RentALimo\\RentALimo\\RentALimo.Business.csproj"
+            "C:\\Users\\Administrator\\Source\\Repos\\RAL\\RentALimo\\RentALimo.Business.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\RAL\\RentALimo\\RentALimo.Business.csproj"
             }
           }
         }
@@ -5810,7 +5810,7 @@
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           },
           "Microsoft.NET.Test.Sdk": {
